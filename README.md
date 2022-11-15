@@ -1,14 +1,13 @@
 # Flatiron Data Science Course - Project 3
-### ### Created by Nick Hall and Ahmad Samiee
-##### Cohort DS-NATL-080822
-&nbsp; 
+#### Created by Nick Hall and Ahmad Samiee
+#### Cohort DS-NATL-080822
 
 
-<h1/> Project Overview <h1/>
+## Project Overview 
 For this project we will solving a classification problem. We will use models appropriate for classification to make prediction for given unseen data.  The dateset is split into two, one for training the models and the other for testing/verifying the performance of our models. Also, we took the approach of trying a couple of different models starting out with simple model with low performance and working toward better models with better performance.
 
 
-<h1/> Business Problem <h1/>
+## Business Problem 
 We have been tasked by our stakeholder, Tanzanian Ministry of Water, to setup a model that can predict water pumps needing repair or operationally non-functional. Because of our business objective, we have decided to use recall for our model metric. Recall in this situation means what percentage of water pumps that are broken or need repair can our model predict correctly.
 
 ## Master Data Set
