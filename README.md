@@ -1,3 +1,4 @@
+
 ## Flatiron Data Science Course - Project 3
 #### Created by Nick Hall and Ahmad Samiee
 ##### Cohort DS-NATL-080822
@@ -8,6 +9,7 @@ For this project we will solving a classification problem. We will use models ap
 
 
 ## Business Problem
+
 We have been tasked by our stakeholder, Tanzanian Ministry of Water, to setup a model that can predict water pumps needing repair or operationally non-functional. Because of our business objective, we have decided to use recall for our model metric. Recall in this situation means what percentage of water pumps that are broken or need repair can our model predict correctly.
 
 ## Master Data Set
