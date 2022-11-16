@@ -19,7 +19,7 @@ The dataset was obtained from from [DrivenData](https://www.drivendata.org) and 
 The original target consisted of three categories: 'functional', 'non-functional' and 'functional needs repair'. This was feature engineered into two categories by creating a new column. If the the pump was 'functional' a value of 0 was assigned to this new column and if the pump was 'non-fuctional' or 'functional needs repair' a value of 1 was assigned to this new column.<br>
 Missing or NAN values for categorical features was filled with most frequent value and for numerical features the average for the column was used to fill in or replace. Most this was accomplished with sklearn Imputer. The the categorical features were then processed with sklearn's OneHotEncoder and the numerical features were processed with StandardScaler. The data was then split into train and test.<br>
 
-<img src="visuals/pump_status.jpeg">
+<img src="Visuals/pump_status.jpeg">
 
 ## Model Development
 For model development we ultilized sklearn Pipeline and GridSearchCV to efficiently test out our models. We evaluated the data with the following models: 
