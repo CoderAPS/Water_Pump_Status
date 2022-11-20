@@ -24,7 +24,7 @@ Missing or NAN values for categorical features was filled with most frequent val
 
 
 #### Status of Water Pumps by Water Source
-<img src="visuals/pump_status.jpeg">
+<img src="Visuals/pump_status2.jpeg">
 
 
 ## Model Development
